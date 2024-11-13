@@ -8,3 +8,5 @@
 2、尝试安装ffmpeg,安装成功后运行仍然出现警告
 
 3、librosa主要处理wav格式文件，那m4a格式是需要转换为wav格式吗
+
+解决：https://github.com/librosa/librosa/issues/1015
